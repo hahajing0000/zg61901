@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.d("123", "onCreate: 111");
+        Log.d("123", "onCreate: 2222");
     }
 }
